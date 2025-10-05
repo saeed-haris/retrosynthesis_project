@@ -1,4 +1,5 @@
-   - GraphEmbedder.pt: PyTorch State dictionary for the graph embeddings
-    - smiles_vae_full_model.pt: PyTorch State dictionary for the VAE model
-    - YieldPredictor.pt: PyTorch State dictionary for the yield predictor model
-    - 2001_Sep2016_USPTOapplications_smiles_yield_ok_all_data.csv: Training data
+# Files
+- GraphEmbedder.pt: PyTorch State dictionary for the graph embeddings
+- smiles_vae_full_model.pt: PyTorch State dictionary for the VAE model
+- YieldPredictor.pt: PyTorch State dictionary for the yield predictor model
+- token_to_idx.json: Vocabulary for SMILES VAE
